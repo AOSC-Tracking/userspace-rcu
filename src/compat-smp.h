@@ -1,8 +1,8 @@
 /*
  * SPDX-License-Identifier: MIT
  *
- * Copyright (C) 2011-2012 Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
- * Copyright (C) 2019 Michael Jeanson <mjeanson@efficios.com>
+ * SPDX-FileCopyrightText: 2011-2012 Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
+ * SPDX-FileCopyrightText: 2019 Michael Jeanson <mjeanson@efficios.com>
  */
 
 #include <assert.h>

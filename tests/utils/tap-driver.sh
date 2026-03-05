@@ -1,7 +1,7 @@
 #! /bin/sh
 # SPDX-License-Identifier: GPL-2.0-or-later
 #
-# Copyright (C) 2011-2018 Free Software Foundation, Inc.
+# SPDX-FileCopyrightText: 2011-2018 Free Software Foundation, Inc.
 
 # As a special exception to the GNU General Public License, if you
 # distribute this file as part of a program that contains a

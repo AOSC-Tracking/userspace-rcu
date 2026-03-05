@@ -1,7 +1,7 @@
 /*
  * SPDX-License-Identifier: GPL-2.0-or-later
  *
- * Copyright (C) 2022 Michael Jeanson <mjeanson@efficios.com>
+ * SPDX-FileCopyrightText: 2022 Michael Jeanson <mjeanson@efficios.com>
  */
 
 #include <stdio.h>
