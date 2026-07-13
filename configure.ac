@@ -1,4 +1,4 @@
-dnl SPDX-License-Identifier: LGPL-2.1-only
+dnl SPDX-License-Identifier: MIT
 dnl
 dnl SPDX-FileCopyrightText: 2021 EfficiOS, Inc.
 dnl
