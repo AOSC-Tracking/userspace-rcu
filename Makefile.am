@@ -16,7 +16,7 @@ EXTRA_DIST = \
 	LICENSES/Autoconf-exception-2.0.txt \
 	LICENSES/BSD-2-Clause.txt \
 	LICENSES/CC0-1.0.txt \
-	LICENSES/CC-BY-4.0.txt \
+	LICENSES/CC-BY-SA-4.0.txt \
 	LICENSES/FSFAP.txt \
 	LICENSES/GPL-2.0-only.txt \
 	LICENSES/GPL-2.0-or-later.txt \

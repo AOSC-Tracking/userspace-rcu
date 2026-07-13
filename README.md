@@ -1,7 +1,7 @@
 <!--
 SPDX-FileCopyrightText: 2025 EfficiOS Inc.
 
-SPDX-License-Identifier: CC-BY-4.0
+SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
 Userspace RCU Implementation

@@ -1,7 +1,7 @@
 <!--
 SPDX-FileCopyrightText: 2009 Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
 
-SPDX-License-Identifier: CC-BY-4.0
+SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
 # Userspace-RCU LGPL 2.1+ re-licensing

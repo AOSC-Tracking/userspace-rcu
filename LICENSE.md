@@ -50,7 +50,7 @@ files under `tests/` for details.
 
 ## Documentation
 
-The documentation is distributed under the `CC-BY-4.0` license.
+The documentation is distributed under the `CC-BY-SA-4.0` license.
 
 
 ## Build system
