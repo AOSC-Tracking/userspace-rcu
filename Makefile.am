@@ -14,6 +14,7 @@ EXTRA_DIST = \
 	CodingStyle.md \
 	lgpl-relicensing.md \
 	LICENSES/Autoconf-exception-2.0.txt \
+	LICENSES/Autoconf-exception-macro.txt \
 	LICENSES/Boehm-GC.txt \
 	LICENSES/BSD-2-Clause.txt \
 	LICENSES/CC0-1.0.txt \
@@ -23,7 +24,6 @@ EXTRA_DIST = \
 	LICENSES/GPL-2.0-or-later.txt \
 	LICENSES/LGPL-2.1-only.txt \
 	LICENSES/LGPL-2.1-or-later.txt \
-	LICENSES/LicenseRef-Autoconf-exception-macro.txt \
 	LICENSES/MIT.txt
 
 .PHONY: short_bench long_bench regtest check-loop
