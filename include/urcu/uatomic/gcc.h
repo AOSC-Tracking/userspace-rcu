@@ -4,7 +4,7 @@
 // SPDX-FileCopyrightText: 2009 Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
 // SPDX-FileCopyrightText: 2010 Paul E. McKenney, IBM Corporation
 //
-// SPDX-License-Identifier: LicenseRef-Boehm-GC
+// SPDX-License-Identifier: Boehm-GC
 
 #ifndef _URCU_ARCH_UATOMIC_GCC_H
 #define _URCU_ARCH_UATOMIC_GCC_H

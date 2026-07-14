@@ -1,6 +1,6 @@
 // SPDX-FileCopyrightText: 2013 Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
 //
-// SPDX-License-Identifier: LicenseRef-Boehm-GC
+// SPDX-License-Identifier: Boehm-GC
 
 #ifndef _TEST_THREAD_ID_H
 #define _TEST_THREAD_ID_H

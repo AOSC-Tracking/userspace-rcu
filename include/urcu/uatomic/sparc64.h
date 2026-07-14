@@ -3,7 +3,7 @@
 // SPDX-FileCopyrightText: 1999-2003 Hewlett-Packard Development Company, L.P.
 // SPDX-FileCopyrightText: 2009 Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
 //
-// SPDX-License-Identifier: LicenseRef-Boehm-GC
+// SPDX-License-Identifier: Boehm-GC
 
 #ifndef _URCU_ARCH_UATOMIC_SPARC64_H
 #define _URCU_ARCH_UATOMIC_SPARC64_H

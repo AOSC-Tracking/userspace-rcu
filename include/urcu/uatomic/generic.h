@@ -4,7 +4,7 @@
 // SPDX-FileCopyrightText: 2009 Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
 // SPDX-FileCopyrightText: 2010 Paolo Bonzini
 //
-// SPDX-License-Identifier: LicenseRef-Boehm-GC
+// SPDX-License-Identifier: Boehm-GC
 
 /*
  * Generic uatomic implementation based on GCC __sync built-in functions or the
