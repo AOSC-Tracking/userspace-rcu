@@ -1,3 +1,13 @@
+2026-09-11 Userspace RCU 0.14.3
+	* call-rcu worker: set CPU affinity on first non-empty dequeue
+	* Fix: leaky wfcq tests
+	* Fix: test_build.c: Test output mismatch
+	* Fix: workqueue leaks mutexes on FreeBSD
+	* Fix: call-rcu leaks mutexes on FreeBSD
+	* call_rcu: pin per-CPU worker at thread startup
+	* urcu-pointer: Add rcu_dereference_sym2() taking the pointer address
+	* urcu-pointer: Fix missing memory ordering in rcu_dereference_sym()
+
 2026-01-26 Userspace RCU 0.14.2
 	* Fix: Only include linux/time_types.h when __NR_futex_time64 is defined
 	* Use __NR_futex_time64 in futex syscall wrapper
