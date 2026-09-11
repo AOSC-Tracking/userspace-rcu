@@ -2,6 +2,16 @@
 #
 # SPDX-License-Identifier: CC-BY-4.0
 
+2026-09-11 Userspace RCU 0.15.7
+	* call-rcu worker: set CPU affinity on first non-empty dequeue
+	* Fix: leaky wfcq tests
+	* Fix: test_build.c: Test output mismatch
+	* Fix: workqueue leaks mutexes on FreeBSD
+	* Fix: call-rcu leaks mutexes on FreeBSD
+	* call_rcu: pin per-CPU worker at thread startup
+	* urcu-pointer: Add rcu_dereference_sym2() taking the pointer address
+	* urcu-pointer: Fix missing memory ordering in rcu_dereference_sym()
+
 2026-01-26 Userspace RCU 0.15.6
 	* urcu-mb: Add missing TSAN annotation to _urcu_mb_read_lock_update
 	* lfstack: Coding style cleanup
