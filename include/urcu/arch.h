@@ -157,6 +157,11 @@
 #define URCU_ARCH_LOONGARCH 1
 #include <urcu/arch/loongarch.h>
 
+#elif defined(__sh__)
+
+#define URCU_ARCH_SUPERH 1
+#include <urcu/arch/superh.h>
+
 #else
 #error "Cannot build: unrecognized architecture, see <urcu/arch.h>."
 #endif

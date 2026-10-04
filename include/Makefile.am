@@ -20,6 +20,7 @@ nobase_include_HEADERS = \
 	urcu/arch/riscv.h \
 	urcu/arch/s390.h \
 	urcu/arch/sparc64.h \
+	urcu/arch/superh.h \
 	urcu/arch/tile.h \
 	urcu/arch/x86.h \
 	urcu/assert.h \
@@ -82,6 +83,7 @@ nobase_include_HEADERS = \
 	urcu/uatomic/riscv.h \
 	urcu/uatomic/s390.h \
 	urcu/uatomic/sparc64.h \
+	urcu/uatomic/superh.h \
 	urcu/uatomic/tile.h \
 	urcu/uatomic/uassert.h \
 	urcu/uatomic/x86.h \

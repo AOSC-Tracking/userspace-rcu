@@ -97,6 +97,8 @@ static inline int cmm_to_c11(int mo)
 #include <urcu/uatomic/riscv.h>
 #elif defined(URCU_ARCH_LOONGARCH)
 #include <urcu/uatomic/loongarch.h>
+#elif defined(URCU_ARCH_SUPERH)
+#include <urcu/uatomic/superh.h>
 #else
 #error "Cannot build: unrecognized architecture, see <urcu/arch.h>."
 #endif
